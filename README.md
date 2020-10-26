@@ -1,8 +1,13 @@
-# sharedpref_test
+# Application help
 
-A new Flutter application.
+used shared preferences and animations
 
-## Getting Started
+## Scrren
+![1](https://user-images.githubusercontent.com/65519308/97171370-68798c80-179e-11eb-977b-005cdb219b8c.gif)
+
+
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
